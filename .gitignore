@@ -103,5 +103,13 @@ Thumbs.db
 *.tmp
 *.temp
 
+# Temporary directories
+cats_and_dogs/animals/
+cats_and_dogs/dataset/
+cats_and_dogs/history/
+cats_and_dogs/charts/
+cats_and_dogs/charts_567/
+cats_and_dogs/history_567/
+cats_and_dogs/test/
 # Compiled files
 __pycache__

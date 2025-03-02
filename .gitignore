@@ -113,5 +113,6 @@ cats_and_dogs/history_567/
 cats_and_dogs/test/
 mlruns/
 mlartifacts/
+catboost_info/
 # Compiled files
 __pycache__
